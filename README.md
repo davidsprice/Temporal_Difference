@@ -2,7 +2,7 @@
 Temporal Difference project of Udacity's Advance Machine Learning nano-degree
 
 ## Target :
-Training a reinforcement learning (RL) agent (quadcopter controller) to learn to fly and perform the defined tasks in direction to maximise reward.
+Write my own implementations of many Temporal-Difference (TD) methods.
 
 ## Algorithm Class :
 Temporal Differences
