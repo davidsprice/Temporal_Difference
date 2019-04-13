@@ -1,13 +1,11 @@
 # Temporal_Difference
 Temporal Difference project of Udacity's Advance Machine Learning nano-degree
-# MonteCarlo
-Monte Carlo mini-project for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
 
 ## Target :
 Training a reinforcement learning (RL) agent (quadcopter controller) to learn to fly and perform the defined tasks in direction to maximise reward.
 
 ## Algorithm Class :
-Monte Carlo
+Temporal Differences
 
 ## Problem Type :
 TBD
