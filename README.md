@@ -1,5 +1,5 @@
 # Temporal_Difference
-Temporal Difference project of Udacity's Advance Machine Learning nano-degree
+Temporal Difference project of Udacity's Advance Machine Learning nanodegree
 
 ## Target :
 Write my own implementations of many Temporal-Difference (TD) methods.
